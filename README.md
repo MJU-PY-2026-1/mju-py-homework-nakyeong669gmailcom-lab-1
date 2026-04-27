@@ -97,8 +97,8 @@ https://github.com/MJU-PY-2026-1/mju-py-homework-nakyeong669gmailcom-lab-1/blob/
 해결: 조건식의 순서를 조정하여 가장 중요한 조건(적자 여부)을 먼저 체크하고, 통과한 경우에만 중첩 조건문으로 진입하게 하여 코드의 가독성을 높임.
 
 ### **📁 증빙 자료:**
-  * [2차_AI협업캡처.pdf 첨부 완료] (첨부 후 링크)
-  * [2차과제_실행결과.jpg]
+  * https://github.com/MJU-PY-2026-1/mju-py-homework-nakyeong669gmailcom-lab-1/blob/main/2%EC%B0%A8%20AI%ED%98%91%EC%97%85%EC%A6%9D%EB%AA%85.pdf
+  * https://github.com/MJU-PY-2026-1/mju-py-homework-nakyeong669gmailcom-lab-1/blob/main/%5B2%EC%B0%A8%EA%B3%BC%EC%A0%9C_%EC%8B%A4%ED%96%89%EA%B2%B0%EA%B3%BC%5D.jpg
 <br>
 
 ## 🟨 [3차 과제: V3.0] 무한 루프와 메뉴 시스템 (반복문) - 향후 작성 예정

@@ -136,9 +136,8 @@ https://github.com/MJU-PY-2026-1/mju-py-homework-nakyeong669gmailcom-lab-1/blob/
 해결 : 3차 과제 함수화 작업을 진행하면서 2차 과제 로직 내의 모든 invest_amonut 오타를 정확한 변수명인 invest_amount로 일괄 수정하여, 선택한 투자 성향(안정형/수익형/공격형)에 맞는 비율 계산이 정상적으로 누락 없이 출력 리포트에 반영되도록 해결했습니다.
      
 ### **📁 증빙 자료:**
-  * [3차_AI협업캡처.pdf 첨부 완료] (첨부 후 링크)
-  * [3차과제_실행결과.jpg]
-<br>
+* https://github.com/MJU-PY-2026-1/mju-py-homework-nakyeong669gmailcom-lab-1/blob/main/AI%ED%98%91%EC%97%85%EC%A6%9D%EB%AA%853.pdf
+* https://github.com/MJU-PY-2026-1/mju-py-homework-nakyeong669gmailcom-lab-1/blob/main/%5B3%EC%B0%A8%EA%B3%BC%EC%A0%9C_%EC%8B%A4%ED%96%89%EA%B2%B0%EA%B3%BC%5D.jpg
 
 ### 🟥 [4차 과제: V4.0] 모듈화 및 데이터 확장 (배열과 함수) - 🌟최종 완성 -- 향후 작성 예정
 ### **✨4차 과제 업데이트 내용:**
